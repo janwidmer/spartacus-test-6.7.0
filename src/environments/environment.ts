@@ -4,7 +4,7 @@
 
 export const environment = {
   production: false,
-  mockServer: false,
+  mockServer: true,
   backend: {
     occ: {
       baseUrl: 'https://spartacus-demo.eastus.cloudapp.azure.com:8443',

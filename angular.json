@@ -32,7 +32,8 @@
                 "glob": "**/*",
                 "input": "./node_modules/@spartacus/smartedit/assets",
                 "output": "assets/"
-              }
+              },
+              "src/mockServiceWorker.js"
             ],
             "styles": [
               "src/styles.scss",
